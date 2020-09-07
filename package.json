@@ -1,0 +1,27 @@
+{
+  "name": "@fabquo/holidates",
+  "version": "1.0.0",
+  "description": "First beCode Node Project",
+  "main": "cli.js",
+  "bin": {
+    "holidates": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabquo/FabCountry-CLI.git"
+  },
+  "author": "fabquo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabquo/FabCountry-CLI/issues"
+  },
+  "homepage": "https://github.com/fabquo/FabCountry-CLI#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "country-list": "^2.2.0"
+  },
+  "devDependencies": {}
+}
