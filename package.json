@@ -1,10 +1,10 @@
 {
-  "name": "@fabquo/holidates",
+  "name": "@fabko/holidates",
   "version": "1.0.0",
   "description": "First beCode Node Project",
   "main": "cli.js",
   "bin": {
-    "holidates": "./cli.js"
+    "holidates": "cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
